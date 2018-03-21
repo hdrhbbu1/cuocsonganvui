@@ -8,10 +8,10 @@
 
 module.exports = {
   siteMetadata: {
-    title: 'Đoàn Bình và Xoa Dịu nỗi đau',
-    siteUrl: 'http://hatgiongyeuthuong.com',
-    rssFeedTitle: 'hatgiongyeuthuong',
-    rssFeedDescription: 'Đoàn Bình và Xoa Dịu nỗi đau, đức phật dạy làm người',
+    title: 'Đoàn Bình và Cuộc Sống An Vui',
+    siteUrl: 'http://cuocsonganvui.net',
+    rssFeedTitle: 'cuocsonganvui',
+    rssFeedDescription: 'Đoàn Bình và Cuộc Sống An Vui, đức phật dạy làm người',
   },
   mapping: {
     'MarkdownRemark.frontmatter.author': 'AuthorYaml',
